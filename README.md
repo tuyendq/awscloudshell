@@ -1,5 +1,8 @@
 # AWS Cloudshell
 
+- Storage: 1GB  
+- Runtime: 
+
 Run ghinstall.sh to download gh cli  
 Run tfinstall.sh to download terraform  
 
