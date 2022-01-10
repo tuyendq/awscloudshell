@@ -1,6 +1,8 @@
 # AWS Cloudshell
 
-Run ghinstall.sh to install gh cli
+Run ghinstall.sh to download gh cli  
+Run tfinstall.sh to download terraform  
+
 
 ```bash
 gh auth login
